@@ -1,3 +1,4 @@
+
 # Beginner-Hacktoberfest
 
 # ❓ What's Hacktoberfest 2022?
@@ -15,4 +16,4 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 Wait there's more!
 
 # 🎯Objectives
-The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
+The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022 
