@@ -1,0 +1,70 @@
+<!DOC TYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, intial scale=1.0">
+    <meta charset="UTF-8">
+    <title>Survey Form</title>
+    <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <header class="header">
+    <h1 id="title">freeCodeCamp Survey form</h1>
+    <p id="description">Thank you for taking your time to improve our services</p>
+    <!-- form -->
+    <form action="https://register-demo.freecodecamp.org" id="survey-form">
+    <fieldset>
+      <!-- name, email, age -->
+      <label id="name-label">Enter your Full Name: <input id="name" type="text" name="fullname"  placeholder="Name" required/></label>
+      <label id="email-label">Enter your Email(valid): <input id="email" type="email" name="email" placeholder="Email" required/></label>
+      
+      <label id="number-label">Enter your Age(optional) in years: <input id="number" type="number" name="age" min="13" max="120" placeholder="Age" /></label>
+      <!-- current role -->
+      <label>Which option describes your current role?</label>
+      <select id="dropdown">
+        <option value="1">Select your current role</option>
+        <option value="2">Student</option>
+        <option value="3">Full time Job</option>
+        <option value="4">Full time Learner</option>
+        <option value="5">Prefer not to say</option>
+        <option value="6">Other</option>
+      </select>
+      <br>
+      <!-- reccomendations -->
+      <label>Would you recommend freeCodecamp to a friend?</label>
+      <label><input type="radio" name="Definitely-May be- not sure" value="radio" class="inline">Definitely</label>
+      <label><input type="radio" name="Definitely-May be- not sure" class="inline" value="radio">May be</label>
+      <label><input type="radio" name="Definitely-May be- not sure" class="inline" value="radio">Not sure</label>
+    </fieldset>
+    <fieldset>
+      <!-- favourite features -->
+      <label>What is your favourite feature of freecodecamp?</label>
+      <select>
+        <option value="1">Select an option</option>
+        <option value="2">Projects</option>
+        <option value="3">Challenges</option>
+        <option value="4">Open Source</option>
+        <option value="5">Community</option>
+      </select>
+      <br>
+      <!-- improvements -->
+      <label>What would you like to see improved(check all that apply)</label>
+      
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Front-end projects</label>
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Back-end projects</label>
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Challenges</label>
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Data Visualization</label>
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Open Source Community</label>
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Additional Courses</label>
+      <label><input type="checkbox" class="inline" name="checkbox" value="checkbox">Videos</label>
+      <!-- For comments/suggestions -->
+
+      <label>Any comments/suggestions</label>
+      <textarea name="suggestions" rows="5" cols="45" placeholder="Enter your suggestions here..."></textarea>
+
+    </fieldset>
+    <!-- submit here -->
+    <input id="submit" type="submit" value="Submit" />
+
+    </form>
+  </body>
+</html>
