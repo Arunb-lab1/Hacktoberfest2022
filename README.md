@@ -16,4 +16,12 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 Wait there's more!
 
 # 🎯Objectives
-The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022 
+The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
+
+# 👟Steps for Contributing
+1. $ cd projects/my-project
+2. $ git init
+3. $ git add.
+4. $ git commit -m "Initial commit"
+5. $ git remote add origin
+6. $ git push origin master
