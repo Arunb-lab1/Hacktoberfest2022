@@ -19,9 +19,40 @@ Wait there's more!
 The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
 
 # 👟Steps for Contributing
-1. $ cd projects/my-project
+<!-- 1. $ cd projects/my-project
 2. $ git init
 3. $ git add.
 4. $ git commit -m "Initial commit"
 5. $ git remote add origin
-6. $ git push origin master
+6. $ git push origin master -->
+1. Fork the repository
+2. clone it in your local machine
+
+```bash
+git clone {Your github repository link}
+```
+
+3. Make changes and add new program, commit them
+4. Add your name to CONTRIBUTORS.md <br>copy & paste this and set as per your data
+
+```bash
+
+| <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | {Your Name} | {About yourself} | {Your country} | [Github link](Your Github link) |
+
+```
+**N.B** :- Add this at the end.
+
+4. Push to Your github repository
+
+```bash
+git push -u origin main
+```
+5. Create a pull request
+
+
+**N.B** <br>
+Please create your file with correct extension and set it in proper folder directory<br>
+You can create your own folder(as per your username) if you have > one file. Otherwise if your have only one file then set it proper folder.<br>
+You can create a new folder(create folder as per language name) if you are working on a programing language which is not mentioned here till now.
+
+## All the Best.

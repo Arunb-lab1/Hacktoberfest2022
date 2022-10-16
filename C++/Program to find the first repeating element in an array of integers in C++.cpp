@@ -1,3 +1,6 @@
+#include<iostream>
+using namespace std;
+
 int main(){
   int array[100], n, i;
   cout << "Enter number of elements: ";
