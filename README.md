@@ -15,10 +15,10 @@ If you’ve never contributed to open source before, this is the perfect time to
 So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.
 Wait there's more!
 
-# 🎯Objectives
+# 🎯OBJECTIVES
 The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
 
-# 👟Steps for Contributing
+# 👟Steps For Contributing
 <!-- 1. $ cd projects/my-project
 2. $ git init
 3. $ git add.
@@ -55,4 +55,4 @@ Please create your file with correct extension and set it in proper folder direc
 You can create your own folder(as per your username) if you have > one file. Otherwise if your have only one file then set it proper folder.<br>
 You can create a new folder(create folder as per language name) if you are working on a programing language which is not mentioned here till now.
 
-## All the Best.
+## ALL THE BEST.
