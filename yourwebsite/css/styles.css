@@ -5,6 +5,10 @@ body{
   font-size: 200%;
 }
 
+.heading{
+  font-family:'Times New Roman', Times, serif;
+}
+
 h1{
   margin-top: 0;
   font-size: 5rem;
@@ -64,7 +68,7 @@ a:hover{
 }
 
 .middle{
-  margin: 100px 0;
+  margin: 100px 0;;
 }
 
 .logo{
@@ -102,4 +106,8 @@ a:hover{
   color: #212121;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+
+.logo{
+  padding: 20px;
 }
