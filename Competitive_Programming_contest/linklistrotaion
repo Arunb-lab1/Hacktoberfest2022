@@ -1,0 +1,35 @@
+class Solution
+{
+    public:
+    int size(Node*head){
+        Node*temp=head;
+        int count=0;
+        while(temp!=NULL){
+            count++;
+            temp=temp->next;
+        }
+        return count;
+   }
+       Node* rotate(Node* head, int k)
+    {
+        Node*temp=head;
+        int n=size(head);   
+        int loop = k%n;        
+        if(k==n || head==NULL || head->next==NULL || loop==0){
+            return head;
+        }    
+        int j=0;
+        while(--loop){
+            temp=temp->next;
+        }
+        Node*p=temp->next;
+        temp->next=NULL;
+        temp=p;
+        while(temp->next!=NULL){
+            temp=temp->next;
+        }
+        temp->next=head;
+        head=p;
+        return head;
+    }
+};
