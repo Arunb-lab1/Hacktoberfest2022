@@ -34,7 +34,7 @@
 | <img width="120px" src="https://github.com/arunb-lab.png" alt="profile-picture"> | Bhuwan Baral |
 | <img width="120px" src="https://github.com/AmitBarman99.png" alt="profile-picture"> | Amit Barman | Sophomore at IIEST shibpur | India | [Github link](https://github.com/AmitBarman99) |
 | <img width="120px" src="https://github.com/uwaisalqadri.png" alt="profile-picture"> | {Uwais Alqadri} | Mobile Engineer at nbs.co.id | Indonesia | [Github link](https://github.com/uwaisalqadri) |
-| <img width="120px" src="https://github.com/itsimmad.png" alt="profile-picture"> | Muhammad Immad | Student | Pakitan | [Github link] (https://github.com/raushanraj99) |
+| <img width="120px" src="https://github.com/itsimmad.png" alt="profile-picture"> | Muhammad Immad | Student | Pakistan | [Github link] (https://github.com/raushanraj99) |
 
 | <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | Raushan raj | Student | India | [Github link] (https://github.com/itsimmad) |
 
