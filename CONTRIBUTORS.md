@@ -38,7 +38,7 @@
 | <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | Raushan raj | Student | India | [Github link] (https://github.com/raushanraj99) |
 | <img width="120px" src="https://github.com/amitsvg.png" alt="profile-picture"> | Amit Kumar | I am a B.Tech student | India | [Github link](https://github.com/amitsvg) |
 
-<img width="120px" src="https://github.com/yd3112.png" alt="profile-picture"> | {Your Name} | {About yourself} | {Your country} | [Github link](Your Github link) |
+<img width="120px" src="https://github.com/yd3112.png" alt="profile-picture"> | Yash Pokar | Developer | India | https://github.com/yd3112 |
 
 
 <!-- Add here(👆) your details -->
