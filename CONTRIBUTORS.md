@@ -34,11 +34,11 @@
 | <img width="120px" src="https://github.com/arunb-lab.png" alt="profile-picture"> | Bhuwan Baral |
 | <img width="120px" src="https://github.com/AmitBarman99.png" alt="profile-picture"> | Amit Barman | Sophomore at IIEST shibpur | India | [Github link](https://github.com/AmitBarman99) |
 | <img width="120px" src="https://github.com/uwaisalqadri.png" alt="profile-picture"> | {Uwais Alqadri} | Mobile Engineer at nbs.co.id | Indonesia | [Github link](https://github.com/uwaisalqadri) |
+|<img width="120px" src="https://github.com/yd3112.png" alt="profile-picture"> | Yash Pokar | Developer | India | https://github.com/yd3112 |
 
 | <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | Raushan raj | Student | India | [Github link] (https://github.com/raushanraj99) |
 | <img width="120px" src="https://github.com/amitsvg.png" alt="profile-picture"> | Amit Kumar | I am a B.Tech student | India | [Github link](https://github.com/amitsvg) |
 
-<img width="120px" src="https://github.com/yd3112.png" alt="profile-picture"> | Yash Pokar | Developer | India | https://github.com/yd3112 |
 
 
 <!-- Add here(👆) your details -->
