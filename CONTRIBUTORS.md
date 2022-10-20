@@ -4,6 +4,7 @@
 | Images | Full Name | About | Country | Github |
 | --- | --- | --- | --- | --- |
 | <img width="120px" src="https://github.com/Arunb-lab1.png" alt="profile-picture"> | Arun Boral |
+| <img width="120px" src="https://github.com/vatsalkudecha.png" alt="profile-picture"> | Vatsal K |
 | <img width="120px" src="https://github.com/rishabh-108272.png" alt="profile-picture"> | rishabh-108272 |
 | <img width="120px" src="https://github.com/sanskarrathore150503m.png" alt="profile-picture"> | Roshan |
 | <img width="120px" src="https://github.com/ayush03ch.png" alt="profile-picture"> | Ayush Chaurasiya |
