@@ -38,6 +38,8 @@
 | <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | Raushan raj | Student | India | [Github link] (https://github.com/raushanraj99) |
 | <img width="120px" src="https://github.com/amitsvg.png" alt="profile-picture"> | Amit Kumar | I am a B.Tech student | India | [Github link](https://github.com/amitsvg) |
 
+| <img width="120px" src="https://github.com/ayush91985.png" alt="profile-picture"> | Ayush Srivastava | I am a B.Tech IT student | India | [Github link](https://github.com/ayush91985) |
+
 
 
 <!-- Add here(👆) your details -->
