@@ -40,6 +40,9 @@
 
 | <img width="120px" src="https://github.com/ayush91985.png" alt="profile-picture"> | Ayush Srivastava | I am a B.Tech IT student | India | [Github link](https://github.com/ayush91985) |
 
+| <img width="120px" src="https://github.com/{surbhisawan}.png" alt="profile-picture"> | Surbhi Sawan | India | [Github link](https://github.com/surbhisawan) |
+
+
 
 
 <!-- Add here(👆) your details -->
