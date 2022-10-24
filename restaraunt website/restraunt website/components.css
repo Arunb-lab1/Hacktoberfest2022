@@ -363,7 +363,7 @@ footer {
 .form__group input,
 .form__group textarea,
 .form__group select {
-	width: 100%;
+	width: 90%;
 	border: none;
 	background-color: var(--lightGreen-1);
 	font-size: 1.4rem;
