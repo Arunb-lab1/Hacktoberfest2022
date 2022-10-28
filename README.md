@@ -40,7 +40,12 @@ git clone {Your github repository link}
 | <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | {Your Name} | {About yourself} | {Your country} | [Github link](Your Github link) |
 
 ```
-**N.B** :- Add this at the end.
+**N.B** :- <br>
+
+> Add this at the end.
+> Set your User ID at the image src
+> Don't put any space between two line in CONTRIBUTORS.md
+> And also don't put space between "[Github link]" and (your github link)
 
 4. Push to Your github repository
 

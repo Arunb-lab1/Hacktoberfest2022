@@ -2,10 +2,7 @@
 
 
 | Images | Full Name | About | Country | Github |
-| --- | --- | --- | --- | --- |
-
-| <img width="120px" src="https://github.com/anamika62.png" alt="profile-picture"> |Anamika Pandey |Learner | India | https://github.com/anamika62 |
-
+| --- | --- | ----- | --- | --- |
 | <img width="120px" src="https://github.com/Arunb-lab1.png" alt="profile-picture"> | Arun Boral |
 | <img width="120px" src="https://github.com/rishabh-108272.png" alt="profile-picture"> | rishabh-108272 |
 | <img width="120px" src="https://github.com/sanskarrathore150503m.png" alt="profile-picture"> | Roshan |
@@ -36,17 +33,13 @@
 | <img width="120px" src="https://github.com/theadityaagnihotri.png" alt="profile-picture"> | Aditya Agnihotri |
 | <img width="120px" src="https://github.com/arunb-lab.png" alt="profile-picture"> | Bhuwan Baral |
 | <img width="120px" src="https://github.com/AmitBarman99.png" alt="profile-picture"> | Amit Barman | Sophomore at IIEST shibpur | India | [Github link](https://github.com/AmitBarman99) |
-| <img width="120px" src="https://github.com/uwaisalqadri.png" alt="profile-picture"> | {Uwais Alqadri} | Mobile Engineer at nbs.co.id | Indonesia | [Github link](https://github.com/uwaisalqadri) |
-
-| <img width="120px" src="https://github.com/{Your_userID}.png" alt="profile-picture"> | Raushan raj | Student | India | [Github link] (https://github.com/raushanraj99) |
-
-| <img width="120px" src="https://github.com/sarcasvik.png" alt="profile-picture"> | Satvik Maheshwari | University student with a knack for coding  | India | [Github link] (https://github.com/sarcasvik) |
-
+| <img width="120px" src="https://github.com/uwaisalqadri.png" alt="profile-picture"> | Uwais Alqadri | Mobile Engineer at nbs.co.id | Indonesia | [Github link](https://github.com/uwaisalqadri) |
+| <img width="120px" src="https://github.com/anamika62.png" alt="profile-picture"> | Anamika Pandey | Learner | India | [GitHub link](https://github.com/anamika62) |
+| <img width="120px" src="https://github.com/raushanraj99.png" alt="profile-picture"> | Raushan raj | Student | India | [Github link](https://github.com/raushanraj99) |
+| <img width="120px" src="https://github.com/sarcasvik.png" alt="profile-picture"> | Satvik Maheshwari | University student with a knack for coding  | India | [Github link](https://github.com/sarcasvik) |
 | <img width="120px" src="https://github.com/amitsvg.png" alt="profile-picture"> | Amit Kumar | I am a B.Tech student | India | [Github link](https://github.com/amitsvg) |
-
 | <img width="120px" src="https://github.com/ayush91985.png" alt="profile-picture"> | Ayush Srivastava | I am a B.Tech IT student | India | [Github link](https://github.com/ayush91985) |
-
-| <img width="120px" src="https://github.com/{surbhisawan}.png" alt="profile-picture"> | Surbhi Sawan | India | [Github link](https://github.com/surbhisawan) |
+| <img width="120px" src="https://github.com/surbhisawan.png" alt="profile-picture"> | Surbhi Sawan | | India | [Github link](https://github.com/surbhisawan) |
 
 
 | <img width="120px" src="https://github.com/Misba9.png" alt="profile-picture"> | Ahmed Misbahuddin | I am a B.Tech Computer Science student | India | [Github link](https://github.com/Misba9) |
