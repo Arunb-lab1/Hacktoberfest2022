@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+body {
+  background-color: rgba(100, 96, 96, 0.521);
+}
+h1 {
+  color: rgba(56, 56, 56, 0.966);
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1%;
+  font-weight: bold;
+}
+.fu {
+  text-align: center;
+  z-index: 4;
+  width: 3.3%;
+}
+
+/*  Container */
+.ctr {
+  width: 100%;
+  text-align: center;
+}
+.bg {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+/* Background Image  --> Adjusted width of absolute image */
+.bg-img {
+  position: absolute;
+  z-index: -1;
+  width: 55%;
+  border-radius: 1%;
+}
+
+canvas {
+  z-index: 5;
+}
+
+/* Animations Buttons */
+.animation-buttons {
+  text-align: center;
+  justify-content: space-around;
+}
+
+.btn {
+  background-color: rgba(87, 87, 87, 0.904);
+  color: white;
+  margin: 1% 2.5%;
+}
+
+.btn:hover {
+  background: white;
+  border: 2px solid rgba(87, 87, 87, 0.904);
+  transform: scale(1.5%);
+}
+
+/* Audio Control */
+.bg-music {
+  position: absolute;
+  top: 5%;
+  left: 3%;
+}
+
+/* Footer */
+footer {
+  background-color: rgb(121, 121, 121);
+  color: white;
+  text-align: center;
+  padding: 1%;
+}
+#content {
+  font-style: normal;
+}
+.fab {
+  color: black;
+  margin: 0 0.3%;
+  padding-bottom: 1%;
+}
+.fab:hover {
+  color: white;
+}
+
+/* Media Query */
+
+@media (max-width: 1200px) {
+  .head {
+    padding: 0 1%;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  .bg-img {
+    width: 80%;
+  }
+  canvas {
+    width: 80%;
+    height: 70%;
+  }
+  .fu {
+    width: 5%;
+  }
+  .bg-music {
+    left: 1%;
+  }
+  footer {
+    margin-top: 5%;
+  }
+  .fab {
+    margin: 0 1%;
+    padding-bottom: 3%;
+  }
+}
+@media (max-width: 430px) {
+  footer {
+    margin-top: 50%;
+    padding: 5%;
+  }
+}

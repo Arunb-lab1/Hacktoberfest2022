@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A Martial Arts Simulator game made using HTML Canvas and pure Vanilla JS. A Good Game Development Project for Beginners."
+    />
+    <meta
+      name="keywords"
+      content="Martial Arts, HTML, CSS, JavaScript, Canvas, Vanilla JavaScript, JS Project"
+    />
+    <meta name="author" content="Ayush Vijayant" />
+    <title>Martial Arts Simulator</title>
+    <link rel="icon" href="./favicon.png" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,300&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Bootstrap CDN -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+
+    <!-- Font Awesome CDN -->
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <div class="head">
+      <h1>
+        Martial Arts Simulator &nbsp;<img
+          class="fu"
+          src="./images/kung-fu.png"
+          alt="kung fu yodha"
+        />
+      </h1>
+    </div>
+
+    <div class="ctr">
+      <div class="bg">
+        <img
+          class="bg-img"
+          src="./images/background.jpg"
+          alt="A Background Image"
+        />
+      </div>
+      <canvas class="cvs" id="myCanvas" height="470%" width="835%"></canvas>
+    </div>
+
+    <section class="animation-buttons">
+      <button class="btn" id="kick">Kick (Left)</button>
+      <button class="btn" id="punch">Punch (Right)</button>
+      <button class="btn" id="forward">Forward (Up)</button>
+      <button class="btn" id="backward">Backward (Down)</button>
+      <button class="btn" id="block">Block (Space)</button>
+    </section>
+
+    <audio id="theme-audio" loop="true">
+      <source src="./sounds/theme.mp3" type="audio/mpeg" />
+    </audio>
+    <button class="btn bg-music" id="theme">
+      <i class="fas fa-volume-up"></i>
+    </button>
+  </body>
+
+  <footer>
+    <p id="content">
+      Made with <i class="fas fa-heart" style="color: red"></i> by Ayush
+      Vijayant.
+    </p>
+    <div class="links">
+      <a
+        href="https://www.facebook.com/people/Ayush-Vijayant/100009856060662/"
+        target="_blank"
+        ><i class="fab fa-2x fa-facebook"></i
+      ></a>
+      <a href="https://github.com/ayushvj08" target="_blank"
+        ><i class="fab fa-2x fa-github"></i
+      ></a>
+      <a href="https://www.instagram.com/ayush_vj08/" target="_blank"
+        ><i class="fab fa-2x fa-instagram"></i
+      ></a>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="./game.js"></script>
+</html>
