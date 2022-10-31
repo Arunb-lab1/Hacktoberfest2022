@@ -44,6 +44,7 @@
 
 | <img width="120px" src="https://github.com/Misba9.png" alt="profile-picture"> | Ahmed Misbahuddin | I am a B.Tech Computer Science student | India | [Github link](https://github.com/Misba9) |
 
+| <img width="120px" src="https://github.com/himanshi4902.png" alt="profile-picture"> | Himanshi Sharma| sophomore |Btech Information technology | [Github link](https://github.com/himanshi4902) |
 
 
 
